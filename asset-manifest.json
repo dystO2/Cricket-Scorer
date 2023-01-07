@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cricket-Scorer/static/css/main.709430cd.chunk.css",
-    "main.js": "/Cricket-Scorer/static/js/main.d7d61f6d.chunk.js",
-    "main.js.map": "/Cricket-Scorer/static/js/main.d7d61f6d.chunk.js.map",
+    "main.js": "/Cricket-Scorer/static/js/main.f2de3ab1.chunk.js",
+    "main.js.map": "/Cricket-Scorer/static/js/main.f2de3ab1.chunk.js.map",
     "runtime-main.js": "/Cricket-Scorer/static/js/runtime-main.d6512681.js",
     "runtime-main.js.map": "/Cricket-Scorer/static/js/runtime-main.d6512681.js.map",
     "static/css/2.3d9108e9.chunk.css": "/Cricket-Scorer/static/css/2.3d9108e9.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.3d9108e9.chunk.css",
     "static/js/2.8f278973.chunk.js",
     "static/css/main.709430cd.chunk.css",
-    "static/js/main.d7d61f6d.chunk.js"
+    "static/js/main.f2de3ab1.chunk.js"
   ]
 }
