@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Cricket-Scorer/static/css/main.709430cd.chunk.css",
-    "main.js": "/Cricket-Scorer/static/js/main.f9debbed.chunk.js",
-    "main.js.map": "/Cricket-Scorer/static/js/main.f9debbed.chunk.js.map",
-    "runtime-main.js": "/Cricket-Scorer/static/js/runtime-main.0bcdca2c.js",
-    "runtime-main.js.map": "/Cricket-Scorer/static/js/runtime-main.0bcdca2c.js.map",
+    "main.js": "/Cricket-Scorer/static/js/main.d7d61f6d.chunk.js",
+    "main.js.map": "/Cricket-Scorer/static/js/main.d7d61f6d.chunk.js.map",
+    "runtime-main.js": "/Cricket-Scorer/static/js/runtime-main.d6512681.js",
+    "runtime-main.js.map": "/Cricket-Scorer/static/js/runtime-main.d6512681.js.map",
     "static/css/2.3d9108e9.chunk.css": "/Cricket-Scorer/static/css/2.3d9108e9.chunk.css",
-    "static/js/2.17aeef40.chunk.js": "/Cricket-Scorer/static/js/2.17aeef40.chunk.js",
-    "static/js/2.17aeef40.chunk.js.map": "/Cricket-Scorer/static/js/2.17aeef40.chunk.js.map",
+    "static/js/2.8f278973.chunk.js": "/Cricket-Scorer/static/js/2.8f278973.chunk.js",
+    "static/js/2.8f278973.chunk.js.map": "/Cricket-Scorer/static/js/2.8f278973.chunk.js.map",
     "index.html": "/Cricket-Scorer/index.html",
     "static/css/2.3d9108e9.chunk.css.map": "/Cricket-Scorer/static/css/2.3d9108e9.chunk.css.map",
     "static/css/main.709430cd.chunk.css.map": "/Cricket-Scorer/static/css/main.709430cd.chunk.css.map",
-    "static/js/2.17aeef40.chunk.js.LICENSE.txt": "/Cricket-Scorer/static/js/2.17aeef40.chunk.js.LICENSE.txt",
+    "static/js/2.8f278973.chunk.js.LICENSE.txt": "/Cricket-Scorer/static/js/2.8f278973.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Cricket-Scorer/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bcdca2c.js",
+    "static/js/runtime-main.d6512681.js",
     "static/css/2.3d9108e9.chunk.css",
-    "static/js/2.17aeef40.chunk.js",
+    "static/js/2.8f278973.chunk.js",
     "static/css/main.709430cd.chunk.css",
-    "static/js/main.f9debbed.chunk.js"
+    "static/js/main.d7d61f6d.chunk.js"
   ]
 }
